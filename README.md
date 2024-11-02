@@ -1,4 +1,4 @@
-Housing Price Prediction with Linear Regression
+# Housing Price Prediction with Linear Regression
 This project demonstrates the use of Linear Regression to predict housing prices based on various features using the housing.csv dataset. The dataset includes various attributes of houses, such as the number of rooms, location, lot size, and other features, which serve as predictors in estimating the housing price. This project is designed to help understand and apply machine learning techniques for regression problems.
 
 Table of Contents
